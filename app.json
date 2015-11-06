@@ -1,1 +1,9 @@
-
+{
+  "name":"private-github",
+  "scripts":{},
+  "env":{},
+  "addons":[
+    "heroku-postgresql",
+    "heroku-redis"
+  ]
+}
